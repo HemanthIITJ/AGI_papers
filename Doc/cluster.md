@@ -166,7 +166,7 @@ By understanding these methods in depth, including their algorithms, considerati
 
 
 ---
-I'll provide a detailed explanation of two clustering methods: K-Means from the `vq` module and Hierarchical Agglomerative Clustering from the `hierarchy` module. I'll cover these methods from basic concepts to advanced implementations.
+
 
 1. K-Means Clustering (from the `vq` module)
 
